@@ -82,5 +82,4 @@ This repository contains the implementation of a real-time, edge-deployed smart 
 
 ---
 
-## 📬 License
-MIT License. Feel free to fork, contribute, and deploy for industrial use!
+
