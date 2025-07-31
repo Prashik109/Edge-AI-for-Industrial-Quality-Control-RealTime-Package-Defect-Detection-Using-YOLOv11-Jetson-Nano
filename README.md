@@ -26,8 +26,9 @@ This repository contains the implementation of a real-time, edge-deployed smart 
 ## 🖼️ System Workflow
 
 <p align="center">
-  <img src="0c4b8277-4b08-4a38-b160-b11c3dbfb351.png" alt="Workflow" width="700"/>
+  <img src="workflow.png" alt="Workflow Diagram" width="700"/>
 </p>
+
 
 ---
 
